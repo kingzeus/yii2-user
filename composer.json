@@ -17,11 +17,10 @@
         },
         {
             "name": "Yefei Fan",
-            "email": "fyfcnc@gmail.com",
+            "email": "fyfcnc@gmail.com"
         },
         {
-            "name": "zoe liang",
-            "email": "fyfcnc@gmail.com",
+            "name": "zoe liang"
         }
     ],
     "minimum-stability": "dev",
